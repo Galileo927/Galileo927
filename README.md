@@ -5,4 +5,4 @@
 
 📖 个人Blog：[https://galileo-blog.vercel.app](https://galileo-blog.vercel.app)  
 📫 QQ：`1134271093`  
-📧 邮箱email：`1134271093@qq.com`
+📧 邮箱email：`galileoyao@gmail.com` 
