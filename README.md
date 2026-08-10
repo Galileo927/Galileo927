@@ -1,4 +1,4 @@
-# 你好,我是Galileo927 👋
+# 你好,我是BoruiYao 👋
 
 ![C++](https://img.shields.io/badge/C%2B%2B-512BD4?logo=cplusplus&logoColor=ffffff&style=flat-square) ![Python](https://img.shields.io/badge/-Python-37A6AB?logo=python&logoColor=ffffff&style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000&style=flat-square)
 
